@@ -1,10 +1,13 @@
 # TRACK DECISION MEMO — Day 15
 
-> **Lưu ý:** Đây là bản điền **mẫu gợi ý** dựa trên template trong `lap_15.png`.
-> Hãy chỉnh lại từng mục theo trải nghiệm và mục tiêu thực tế của bạn.
+> **Lưu ý:** Phần thông tin định danh bên dưới là **thông tin thật**.
+> Các mục 1–5 vẫn là **nội dung mẫu gợi ý** — bạn hãy chỉnh lại theo trải nghiệm và mục tiêu thực tế của mình.
 
 - **Họ tên:** Lưu Xuân Thế
-- **Pathway:** C — **AI Engineering**
+- **Email:** thexuanluu@gmail.com
+- **GitHub:** [@theluu](https://github.com/theluu)
+- **Ngày làm:** 17/06/2026 (Day 15)
+- **Pathway:** C — **AI Engineering** (Track T3)
 
 ---
 
